@@ -2,7 +2,6 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
@@ -10,7 +9,6 @@
 
     >
     <ImageButton
-        android:id="@+id/logo"
         android:layout_width="500dp"
         android:layout_height="100dp"
         android:background="@drawable/logo"
@@ -34,7 +32,6 @@
         android:layout_centerHorizontal="true"/>
 
     <ImageButton
-        android:id="@+id/buttonKuis"
         android:layout_width="250dp"
         android:layout_height="70dp"
         android:background="@drawable/b_belajar"
@@ -42,7 +39,6 @@
         android:layout_centerHorizontal="true"/>
 
     <ImageButton
-        android:id="@+id/buttonAbout"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:background="@drawable/about"
@@ -50,7 +46,6 @@
         android:layout_alignParentBottom="true"/>
 
     <ImageButton
-        android:id="@+id/buttonExit"
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:background="@drawable/exit"
