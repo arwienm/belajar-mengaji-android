@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
-        <activity android:name=".KuisTebakBacaanActivity"></activity>
+        <activity android:name=".BelajarActivity"></activity>
+        <activity android:name=".KuisTebakBacaanTanwinActivity" />
+        <activity android:name=".KuisTebakBacaanHarokatActivity" />
+        <activity android:name=".KuisTebakBacaanHijaiyahActivity" />
+        <activity android:name="com.taken.belajarmengaji.KuisTebakBacaanTanwinActivity" />
+        <activity android:name=".KuisTebakBacaanActivity" />
         <activity android:name=".KuisTebakTanwinActivity" />
         <activity android:name=".KuisTebakHarokatActivity" />
         <activity android:name=".KuisTebakHijaiyahActivity" />

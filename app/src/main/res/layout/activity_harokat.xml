@@ -28,7 +28,7 @@
                 android:layout_height="wrap_content"
                 android:background="@drawable/menu_harokat_kasroh"/>
             <ImageButton
-                android:id="@+id/harokat_dhoma"
+                android:id="@+id/harokat_dhomah"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="@drawable/menu_harokat_dhomah"/>
