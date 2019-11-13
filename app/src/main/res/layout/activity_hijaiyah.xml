@@ -237,6 +237,7 @@
                 android:layout_centerHorizontal="true" />
 
             <ImageButton
+                android:id="@+id/baa"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -248,6 +249,7 @@
 
 
             <ImageButton
+                android:id="@+id/alif"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -259,12 +261,13 @@
 
         </LinearLayout>
     </HorizontalScrollView>
+
     <ImageView
+        android:id="@+id/tampil_hijaiyah"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/pop_alif"
-        android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerInParent="true"
+        android:background="@drawable/pop_alif" />
 
     <ImageButton
         android:layout_width="70dp"
