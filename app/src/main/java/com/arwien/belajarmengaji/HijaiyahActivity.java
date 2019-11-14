@@ -6,6 +6,7 @@ import android.media.ImageWriter;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.View;
+import android.view.WindowManager;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageButton;
@@ -19,9 +20,9 @@ public class HijaiyahActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hijaiyah);
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
         TampilGambar = (ImageView)findViewById(R.id.tampil_hijaiyah);
-        show = (ImageView) findViewById(R.id.tampil_hijaiyah);
         show = (ImageButton) findViewById(R.id.alif);
         show = (ImageButton) findViewById(R.id.ba);
 
@@ -98,182 +99,297 @@ public class HijaiyahActivity extends AppCompatActivity {
         ImageButton ButtonSuara28 = (ImageButton) this.findViewById(R.id.ya);
 
 
-        /*Menghidupkan suara*/
-
-        ButtonSuara.setOnClickListener(new View.OnClickListener(){
+        /*Menghidupkan Suara */
+        ButtonSuara.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {
-                // TODO Auto-generated method sub
+                // TODO Auto-generated method stub
                 TampilGambar.setImageResource(R.drawable.pop_alif);
                 TampilGambar.startAnimation(animScale);
-                SuaraBa.start();
+                SuaraAlif.start();
             }
         });
 
-        ButtonSuara2.setOnClickListener(new View.OnClickListener(){
+        ButtonSuara2.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {
-                // TODO Auto-generated method sub
+                // TODO Auto-generated method stub
                 TampilGambar.setImageResource(R.drawable.pop_ba);
                 TampilGambar.startAnimation(animScale);
                 SuaraBa.start();
             }
         });
 
-        ButtonSuara.setOnClickListener(new View.OnClickListener(){
+        ButtonSuara3.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {
-                // TODO Auto-generated method sub
+                // TODO Auto-generated method stub
                 TampilGambar.setImageResource(R.drawable.pop_ta);
                 TampilGambar.startAnimation(animScale);
-                SuaraBa.start();
+                SuaraTa.start();
             }
         });
-        ButtonSuara.setOnClickListener(new View.OnClickListener(){
+
+        ButtonSuara4.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {
-                // TODO Auto-generated method sub
+                // TODO Auto-generated method stub
                 TampilGambar.setImageResource(R.drawable.pop_tsa);
                 TampilGambar.startAnimation(animScale);
-                SuaraBa.start();
+                SuaraSa.start();
             }
         });
-        ButtonSuara.setOnClickListener(new View.OnClickListener(){
+        ButtonSuara5.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {
-                // TODO Auto-generated method sub
-                TampilGambar.setImageResource(R.drawable.pop_ja);
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_jim);
                 TampilGambar.startAnimation(animScale);
-                SuaraBa.start();
+                SuaraJim.start();
             }
         });
-        ButtonSuara.setOnClickListener(new View.OnClickListener(){
+        ButtonSuara6.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {
-                // TODO Auto-generated method sub
-                TampilGambar.setImageResource(R.drawable.pop_ta);
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_ha);
                 TampilGambar.startAnimation(animScale);
-                SuaraBa.start();
+                SuaraHa.start();
             }
         });
-        ButtonSuara.setOnClickListener(new View.OnClickListener(){
+        ButtonSuara7.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {
-                // TODO Auto-generated method sub
-                TampilGambar.setImageResource(R.drawable.pop_ta);
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_kha);
                 TampilGambar.startAnimation(animScale);
-                SuaraBa.start();
-            }
-        });
-        ButtonSuara.setOnClickListener(new View.OnClickListener(){
-
-            @Override
-            public void onClick(View v) {
-                // TODO Auto-generated method sub
-                TampilGambar.setImageResource(R.drawable.pop_ta);
-                TampilGambar.startAnimation(animScale);
-                SuaraBa.start();
-            }
-        });
-        ButtonSuara.setOnClickListener(new View.OnClickListener(){
-
-            @Override
-            public void onClick(View v) {
-                // TODO Auto-generated method sub
-                TampilGambar.setImageResource(R.drawable.pop_ta);
-                TampilGambar.startAnimation(animScale);
-                SuaraBa.start();
-            }
-        });        ButtonSuara.setOnClickListener(new View.OnClickListener(){
-
-            @Override
-            public void onClick(View v) {
-                // TODO Auto-generated method sub
-                TampilGambar.setImageResource(R.drawable.pop_ta);
-                TampilGambar.startAnimation(animScale);
-                SuaraBa.start();
-            }
-        });
-        ButtonSuara.setOnClickListener(new View.OnClickListener(){
-
-            @Override
-            public void onClick(View v) {
-                // TODO Auto-generated method sub
-                TampilGambar.setImageResource(R.drawable.pop_ta);
-                TampilGambar.startAnimation(animScale);
-                SuaraBa.start();
-            }
-        });
-        ButtonSuara.setOnClickListener(new View.OnClickListener(){
-
-            @Override
-            public void onClick(View v) {
-                // TODO Auto-generated method sub
-                TampilGambar.setImageResource(R.drawable.pop_ta);
-                TampilGambar.startAnimation(animScale);
-                SuaraBa.start();
-            }
-        });
-        ButtonSuara.setOnClickListener(new View.OnClickListener(){
-
-            @Override
-            public void onClick(View v) {
-                // TODO Auto-generated method sub
-                TampilGambar.setImageResource(R.drawable.pop_ta);
-                TampilGambar.startAnimation(animScale);
-                SuaraBa.start();
-            }
-        });
-        ButtonSuara.setOnClickListener(new View.OnClickListener(){
-
-            @Override
-            public void onClick(View v) {
-                // TODO Auto-generated method sub
-                TampilGambar.setImageResource(R.drawable.pop_ta);
-                TampilGambar.startAnimation(animScale);
-                SuaraBa.start();
-            }
-        });        ButtonSuara.setOnClickListener(new View.OnClickListener(){
-
-            @Override
-            public void onClick(View v) {
-                // TODO Auto-generated method sub
-                TampilGambar.setImageResource(R.drawable.pop_ta);
-                TampilGambar.startAnimation(animScale);
-                SuaraBa.start();
-            }
-        });
-        ButtonSuara.setOnClickListener(new View.OnClickListener(){
-
-            @Override
-            public void onClick(View v) {
-                // TODO Auto-generated method sub
-                TampilGambar.setImageResource(R.drawable.pop_ta);
-                TampilGambar.startAnimation(animScale);
-                SuaraBa.start();
-            }
-        });
-        ButtonSuara.setOnClickListener(new View.OnClickListener(){
-
-            @Override
-            public void onClick(View v) {
-                // TODO Auto-generated method sub
-                TampilGambar.setImageResource(R.drawable.pop_ta);
-                TampilGambar.startAnimation(animScale);
-                SuaraBa.start();
+                SuaraKho.start();
             }
         });
 
+        ButtonSuara8.setOnClickListener(new View.OnClickListener() {
 
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_dal);
+                TampilGambar.startAnimation(animScale);
+                SuaraDzal.start();
+            }
+        });
 
+        ButtonSuara9.setOnClickListener(new View.OnClickListener() {
 
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_dzal);
+                TampilGambar.startAnimation(animScale);
+                SuaraDzal.start();
+            }
+        });
+        ButtonSuara10.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_ra);
+                TampilGambar.startAnimation(animScale);
+                SuaraRo.start();
+            }
+        });
+        ButtonSuara11.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_zai);
+                TampilGambar.startAnimation(animScale);
+                SuaraDza.start();
+            }
+        });
+
+        ButtonSuara12.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_sin);
+                TampilGambar.startAnimation(animScale);
+                SuaraSin.start();
+            }
+        });
+        ButtonSuara13.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_syin);
+                TampilGambar.startAnimation(animScale);
+                SuaraSyin.start();
+            }
+        });
+        ButtonSuara14.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_shad);
+                TampilGambar.startAnimation(animScale);
+                SuaraShad.start();
+            }
+        });
+
+        ButtonSuara15.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_dhad);
+                TampilGambar.startAnimation(animScale);
+                SuaraDod.start();
+            }
+        });
+        ButtonSuara16.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_tha);
+                TampilGambar.startAnimation(animScale);
+                SuaraDho.start();
+            }
+        });
+        ButtonSuara17.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_zha);
+                TampilGambar.startAnimation(animScale);
+                SuaraAin.start();
+            }
+        });
+        ButtonSuara18.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_ain);
+                TampilGambar.startAnimation(animScale);
+                SuaraAin.start();
+            }
+        });
+
+        ButtonSuara19.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_hijaiyah_ghain);
+                TampilGambar.startAnimation(animScale);
+                SuaraGin.start();
+            }
+        });
+        ButtonSuara20.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_fa);
+                TampilGambar.startAnimation(animScale);
+                SuaraFa.start();
+            }
+        });
+        ButtonSuara21.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_qaf);
+                TampilGambar.startAnimation(animScale);
+                SuaraKof.start();
+            }
+        });
+        ButtonSuara22.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                TampilGambar.setImageResource(R.drawable.pop_kaf);
+                TampilGambar.startAnimation(animScale);
+                // TODO Auto-generated method stub
+                SuaraKaf.start();
+            }
+        });
+        ButtonSuara23.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_lam);
+                TampilGambar.startAnimation(animScale);
+                SuaraLam.start();
+            }
+        });
+
+        ButtonSuara24.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_mim);
+                TampilGambar.startAnimation(animScale);
+                SuaraMin.start();
+            }
+        });
+        ButtonSuara25.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_nun);
+                TampilGambar.startAnimation(animScale);
+
+                SuaraNun.start();
+            }
+        });
+        ButtonSuara26.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_wawu);
+                TampilGambar.startAnimation(animScale);
+                SuaraWawu.start();
+            }
+        });
+        ButtonSuara27.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_haa);
+                TampilGambar.startAnimation(animScale);
+                SuaraHaa.start();
+            }
+        });
+        ButtonSuara28.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                TampilGambar.setImageResource(R.drawable.pop_ya);
+                TampilGambar.startAnimation(animScale);
+                SuaraYa.start();
+            }
+        });
 
 
     }

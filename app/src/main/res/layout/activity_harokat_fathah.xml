@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bg4"
+    android:id="@+id/activity_harokat_fathah"
     tools:context="com.arwien.belajarmengaji.HarokatFathahActivity">
 
     <HorizontalScrollView
@@ -22,6 +23,7 @@
             android:layout_centerHorizontal="true">
 
             <ImageButton
+                android:id="@+id/fatah_ya"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -30,6 +32,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_haa"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -38,6 +41,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_wa"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -46,6 +50,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_nun"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -54,6 +59,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_mim"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -62,6 +68,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_lam"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -70,6 +77,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_ka"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -78,6 +86,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_qo"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -86,6 +95,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_fa"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -94,6 +104,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_gho"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -103,6 +114,7 @@
                 android:layout_centerHorizontal="true" />
 
             <ImageButton
+                android:id="@+id/fatah_aa"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -111,6 +123,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_dzo"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -119,6 +132,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_tho"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -127,6 +141,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_dho"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -135,6 +150,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_sho"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -143,6 +159,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_sya"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -151,6 +168,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_sa"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -160,6 +178,7 @@
                 android:layout_centerHorizontal="true" />
 
             <ImageButton
+                android:id="@+id/fatah_za"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -168,6 +187,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_ro"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -176,6 +196,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_dza"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -184,6 +205,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_da"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -192,6 +214,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_kha"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -200,6 +223,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_ha"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -208,6 +232,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_ja"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -216,6 +241,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true"  />
             <ImageButton
+                android:id="@+id/fatah_tsa"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -224,6 +250,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/fatah_ta"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -233,6 +260,7 @@
                 android:layout_centerHorizontal="true" />
 
             <ImageButton
+                android:id="@+id/fatah_ba"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -243,6 +271,7 @@
                 android:layout_centerHorizontal="true" />
 
             <ImageButton
+                android:id="@+id/fatah_a"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -255,6 +284,7 @@
         </LinearLayout>
     </HorizontalScrollView>
     <ImageView
+        android:id="@+id/tampil_hijaiyah2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@drawable/pop_fatah_a"

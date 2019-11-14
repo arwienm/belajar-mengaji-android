@@ -26,6 +26,7 @@
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true">
             <ImageButton
+                android:id="@+id/domah_yu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -34,6 +35,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_huu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -42,6 +44,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_wu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -50,6 +53,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_nu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -58,6 +62,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_mu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -66,6 +71,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_lu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -74,6 +80,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_ku"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -82,6 +89,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_qu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -90,6 +98,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_fu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -98,6 +107,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_ghu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -106,6 +116,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_uu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -114,6 +125,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_duu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -122,6 +134,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_thu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -130,6 +143,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_dhu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -138,6 +152,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_shu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -146,6 +161,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_syu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -154,6 +170,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_su"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -163,6 +180,7 @@
                 android:layout_centerHorizontal="true" />
 
             <ImageButton
+                android:id="@+id/domah_zu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -171,6 +189,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_ru"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -179,6 +198,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_dzu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -187,6 +207,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_du"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -195,6 +216,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_hu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -203,6 +225,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_khu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -211,6 +234,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_ju"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -219,6 +243,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_tsu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -227,6 +252,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/domah_tu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -236,6 +262,7 @@
                 android:layout_centerHorizontal="true" />
 
             <ImageButton
+                android:id="@+id/domah_bu"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -246,6 +273,7 @@
                 android:layout_centerHorizontal="true" />
 
             <ImageButton
+                android:id="@+id/domah_u"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -258,6 +286,7 @@
         </LinearLayout>
     </HorizontalScrollView>
     <ImageView
+        android:id="@+id/tampil_hijaiyah5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@drawable/pop_domahtain_u"

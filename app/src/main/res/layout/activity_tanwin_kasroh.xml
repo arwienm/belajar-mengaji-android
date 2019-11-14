@@ -21,6 +21,7 @@
             android:layout_centerHorizontal="true">
 
             <ImageButton
+                android:id="@+id/kasrohtain_yin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -29,6 +30,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_hiin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -37,6 +39,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_win"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -45,6 +48,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_nin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -53,6 +57,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_min"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -61,6 +66,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_lin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -69,6 +75,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_kin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -77,6 +84,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_qin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -85,6 +93,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_fin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -93,6 +102,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_gin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -102,6 +112,7 @@
                 android:layout_centerHorizontal="true" />
 
             <ImageButton
+                android:id="@+id/kasrohtain_ain"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -110,6 +121,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_zhin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -118,6 +130,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_thin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -126,6 +139,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_dhin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -134,6 +148,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_shin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -142,6 +157,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_syin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -150,6 +166,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_sin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -159,6 +176,7 @@
                 android:layout_centerHorizontal="true" />
 
             <ImageButton
+                android:id="@+id/kasrohtain_zin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -167,6 +185,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_rin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -175,6 +194,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_dzin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -183,6 +203,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_din"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -191,6 +212,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_khin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -199,6 +221,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_hin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -207,6 +230,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_jin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -215,6 +239,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true"  />
             <ImageButton
+                android:id="@+id/kasrohtain_tsin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -223,6 +248,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true" />
             <ImageButton
+                android:id="@+id/kasrohtain_tin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -232,6 +258,7 @@
                 android:layout_centerHorizontal="true" />
 
             <ImageButton
+                android:id="@+id/kasrohtain_bin"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -242,6 +269,7 @@
                 android:layout_centerHorizontal="true" />
 
             <ImageButton
+                android:id="@+id/kasrohtain_in"
                 android:layout_width="wrap_content"
                 android:layout_marginBottom="5dp"
                 android:layout_height="wrap_content"
@@ -254,6 +282,7 @@
         </LinearLayout>
     </HorizontalScrollView>
     <ImageView
+        android:id="@+id/tampil_hijaiyah7"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@drawable/pop_kasroh_tain_in"
