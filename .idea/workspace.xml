@@ -10,34 +10,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47777ebf-2cca-4647-9393-80478a4bbf5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/Bacaan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/Harokat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/Hijaiyah.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/Tanwin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HarokatDhomahActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HarokatDhomahActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HarokatFathahActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HarokatFathahActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HarokatKasrohActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HarokatKasrohActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HijaiyahActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HijaiyahActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/TanwinDhomahActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/TanwinDhomahActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/TanwinFathahActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/TanwinFathahActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/TanwinKasrohActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/TanwinKasrohActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_harokat_dhomah.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_harokat_dhomah.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_harokat_fathah.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_harokat_fathah.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_harokat_kasroh.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_harokat_kasroh.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_tanwin_dhomah.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_tanwin_dhomah.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_tanwin_fathah.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_tanwin_fathah.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_tanwin_kasroh.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_tanwin_kasroh.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakBacaanActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakBacaanActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakBacaanHarokatActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakBacaanHarokatActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakBacaanHijaiyahActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakBacaanHijaiyahActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakBacaanTanwinActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakBacaanTanwinActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakHarokatActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakHarokatActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakHijaiyahActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakHijaiyahActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_kuis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_kuis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_bacaan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_bacaan.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_hijaiyah.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_hijaiyah.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,223 +56,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_hijaiyah.xml">
-          <provider editor-type-id="android-designer2" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="291" column="40" selection-start-line="291" selection-start-column="40" selection-end-line="291" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/TanwinFathahActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="72" column="83" selection-start-line="72" selection-start-column="83" selection-end-line="72" selection-end-column="83" />
-              <folding>
-                <element signature="e#1003#1178#0" expanded="true" />
-                <element signature="e#1177#1178#0" expanded="true" />
-                <element signature="e#6104#6439#0" expanded="true" />
-                <element signature="e#6438#6439#0" expanded="true" />
-                <element signature="e#6483#6817#0" expanded="true" />
-                <element signature="e#6816#6817#0" expanded="true" />
-                <element signature="e#6861#7195#0" expanded="true" />
-                <element signature="e#7194#7195#0" expanded="true" />
-                <element signature="e#7239#7574#0" expanded="true" />
-                <element signature="e#7573#7574#0" expanded="true" />
-                <element signature="e#7617#7952#0" expanded="true" />
-                <element signature="e#7951#7952#0" expanded="true" />
-                <element signature="e#7995#8329#0" expanded="true" />
-                <element signature="e#8328#8329#0" expanded="true" />
-                <element signature="e#8372#8708#0" expanded="true" />
-                <element signature="e#8707#8708#0" expanded="true" />
-                <element signature="e#8752#9087#0" expanded="true" />
-                <element signature="e#9086#9087#0" expanded="true" />
-                <element signature="e#9131#9468#0" expanded="true" />
-                <element signature="e#9467#9468#0" expanded="true" />
-                <element signature="e#9512#9846#0" expanded="true" />
-                <element signature="e#9845#9846#0" expanded="true" />
-                <element signature="e#9890#10224#0" expanded="true" />
-                <element signature="e#10223#10224#0" expanded="true" />
-                <element signature="e#10269#10604#0" expanded="true" />
-                <element signature="e#10603#10604#0" expanded="true" />
-                <element signature="e#10648#10985#0" expanded="true" />
-                <element signature="e#10984#10985#0" expanded="true" />
-                <element signature="e#11029#11366#0" expanded="true" />
-                <element signature="e#11365#11366#0" expanded="true" />
-                <element signature="e#11411#11747#0" expanded="true" />
-                <element signature="e#11746#11747#0" expanded="true" />
-                <element signature="e#11791#12126#0" expanded="true" />
-                <element signature="e#12125#12126#0" expanded="true" />
-                <element signature="e#12170#12505#0" expanded="true" />
-                <element signature="e#12504#12505#0" expanded="true" />
-                <element signature="e#12549#12884#0" expanded="true" />
-                <element signature="e#12883#12884#0" expanded="true" />
-                <element signature="e#12929#13265#0" expanded="true" />
-                <element signature="e#13264#13265#0" expanded="true" />
-                <element signature="e#13309#13643#0" expanded="true" />
-                <element signature="e#13642#13643#0" expanded="true" />
-                <element signature="e#13687#14022#0" expanded="true" />
-                <element signature="e#14021#14022#0" expanded="true" />
-                <element signature="e#14066#14401#0" expanded="true" />
-                <element signature="e#14400#14401#0" expanded="true" />
-                <element signature="e#14445#14780#0" expanded="true" />
-                <element signature="e#14779#14780#0" expanded="true" />
-                <element signature="e#14825#15159#0" expanded="true" />
-                <element signature="e#15158#15159#0" expanded="true" />
-                <element signature="e#15203#15539#0" expanded="true" />
-                <element signature="e#15538#15539#0" expanded="true" />
-                <element signature="e#15583#15919#0" expanded="true" />
-                <element signature="e#15918#15919#0" expanded="true" />
-                <element signature="e#15963#16298#0" expanded="true" />
-                <element signature="e#16297#16298#0" expanded="true" />
-                <element signature="e#16342#16676#0" expanded="true" />
-                <element signature="e#16675#16676#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HijaiyahActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="24" column="59" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HarokatFathahActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-323">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HarokatDhomahActivity.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakHijaiyahActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="382" column="74" selection-start-line="382" selection-start-column="74" selection-end-line="382" selection-end-column="74" />
+            <state relative-caret-position="154">
+              <caret line="60" column="38" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
               <folding>
-                <element signature="e#16258#16591#0" expanded="true" />
-                <element signature="e#16590#16591#0" expanded="true" />
+                <element signature="e#1287#1441#0" expanded="true" />
+                <element signature="e#1440#1441#0" expanded="true" />
+                <element signature="e#1477#1632#0" expanded="true" />
+                <element signature="e#1631#1632#0" expanded="true" />
+                <element signature="e#1820#1821#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_harokat_dhomah.xml">
-          <provider editor-type-id="android-designer2" />
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/Hijaiyah.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+            <state relative-caret-position="102">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_harokat_fathah.xml">
-          <provider editor-type-id="android-designer2" />
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/Harokat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="286" column="41" selection-start-line="286" selection-start-column="41" selection-end-line="286" selection-end-column="41" />
+            <state relative-caret-position="85">
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tanwin_fathah.xml">
-          <provider editor-type-id="android-designer2" />
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/Tanwin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3923">
-              <caret line="46" column="55" selection-start-line="46" selection-start-column="55" selection-end-line="46" selection-end-column="55" />
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tanwin_dhomah.xml">
-          <provider editor-type-id="android-designer2" />
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/Bacaan.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+            <state relative-caret-position="68">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/TanwinDhomahActivity.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_hijaiyah.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-884">
-              <caret line="23" column="61" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="61" />
-              <folding>
-                <element signature="e#983#1157#0" expanded="true" />
-                <element signature="e#1156#1157#0" expanded="true" />
-                <element signature="e#6263#6598#0" expanded="true" />
-                <element signature="e#6597#6598#0" expanded="true" />
-                <element signature="e#6642#6976#0" expanded="true" />
-                <element signature="e#6975#6976#0" expanded="true" />
-                <element signature="e#7020#7354#0" expanded="true" />
-                <element signature="e#7353#7354#0" expanded="true" />
-                <element signature="e#7398#7733#0" expanded="true" />
-                <element signature="e#7732#7733#0" expanded="true" />
-                <element signature="e#7776#8111#0" expanded="true" />
-                <element signature="e#8110#8111#0" expanded="true" />
-                <element signature="e#8154#8488#0" expanded="true" />
-                <element signature="e#8487#8488#0" expanded="true" />
-                <element signature="e#8531#8867#0" expanded="true" />
-                <element signature="e#8866#8867#0" expanded="true" />
-                <element signature="e#8911#9246#0" expanded="true" />
-                <element signature="e#9245#9246#0" expanded="true" />
-                <element signature="e#9290#9627#0" expanded="true" />
-                <element signature="e#9626#9627#0" expanded="true" />
-                <element signature="e#9671#10005#0" expanded="true" />
-                <element signature="e#10004#10005#0" expanded="true" />
-                <element signature="e#10049#10383#0" expanded="true" />
-                <element signature="e#10382#10383#0" expanded="true" />
-                <element signature="e#10428#10763#0" expanded="true" />
-                <element signature="e#10762#10763#0" expanded="true" />
-                <element signature="e#10807#11144#0" expanded="true" />
-                <element signature="e#11143#11144#0" expanded="true" />
-                <element signature="e#11188#11525#0" expanded="true" />
-                <element signature="e#11524#11525#0" expanded="true" />
-                <element signature="e#11570#11906#0" expanded="true" />
-                <element signature="e#11905#11906#0" expanded="true" />
-                <element signature="e#11951#12286#0" expanded="true" />
-                <element signature="e#12285#12286#0" expanded="true" />
-                <element signature="e#12330#12666#0" expanded="true" />
-                <element signature="e#12665#12666#0" expanded="true" />
-                <element signature="e#12710#13045#0" expanded="true" />
-                <element signature="e#13044#13045#0" expanded="true" />
-                <element signature="e#13090#13426#0" expanded="true" />
-                <element signature="e#13425#13426#0" expanded="true" />
-                <element signature="e#13470#13804#0" expanded="true" />
-                <element signature="e#13803#13804#0" expanded="true" />
-                <element signature="e#13848#14183#0" expanded="true" />
-                <element signature="e#14182#14183#0" expanded="true" />
-                <element signature="e#14227#14562#0" expanded="true" />
-                <element signature="e#14561#14562#0" expanded="true" />
-                <element signature="e#14606#14941#0" expanded="true" />
-                <element signature="e#14940#14941#0" expanded="true" />
-                <element signature="e#14986#15321#0" expanded="true" />
-                <element signature="e#15320#15321#0" expanded="true" />
-                <element signature="e#15365#15701#0" expanded="true" />
-                <element signature="e#15700#15701#0" expanded="true" />
-                <element signature="e#15745#16081#0" expanded="true" />
-                <element signature="e#16080#16081#0" expanded="true" />
-                <element signature="e#16125#16460#0" expanded="true" />
-                <element signature="e#16459#16460#0" expanded="true" />
-                <element signature="e#16504#16838#0" expanded="true" />
-                <element signature="e#16837#16838#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="952">
+              <caret line="56" column="19" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
             </state>
           </provider>
+          <provider editor-type-id="android-designer2" />
         </entry>
       </file>
     </leaf>
@@ -282,8 +123,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="resourceFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -291,6 +132,7 @@
     <findStrings>
       <find>SuaraBa</find>
       <find>SuaraYa</find>
+      <find>j2</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -301,12 +143,9 @@
       <list>
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_tanwin_fatah.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_kuis.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_hijaiyah.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_harokat.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_tanwin.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_bacaan.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_bacaan_hijaiyah.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_bacaan_harokat.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_bacaan_tanwin.xml" />
@@ -319,9 +158,7 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_tanwin.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/TanwinActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/anim/anim_scale.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HijaiyahActivity.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HarokatFathahActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_harokat_kasroh.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HarokatKasrohActivity.java" />
@@ -335,6 +172,22 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_harokat_fathah.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_harokat_dhomah.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HarokatDhomahActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HijaiyahActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_kuis.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_bacaan.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakBacaanActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakBacaanHarokatActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakBacaanHijaiyahActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakBacaanTanwinActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakHarokatActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/Hijaiyah.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/Harokat.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/Tanwin.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/Bacaan.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_hijaiyah.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakHijaiyahActivity.java" />
       </list>
     </option>
   </component>
@@ -351,45 +204,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Belajar Mengaji" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="Belajar Mengaji" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="Belajar Mengaji" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="belajarmengaji" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Belajar Mengaji" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-            </path>
-            <path>
-              <item name="Belajar Mengaji" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
-            </path>
-            <path>
-              <item name="Belajar Mengaji" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="raw" type="ddeffd01:AndroidResFolderTypeNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -428,12 +242,23 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Belajar Mengaji" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="RR8M30EZH8A" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-11-14T12:58:24.054Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-11-15T13:57:29.235Z" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -554,7 +379,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20953101" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2602118" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
@@ -563,13 +388,13 @@
       <window_info id="Resources Explorer" order="7" />
       <window_info id="Capture Tool" order="8" />
       <window_info anchor="bottom" id="Run" order="0" weight="0.3289689" />
-      <window_info anchor="bottom" id="Logcat" order="1" weight="0.3286026" />
-      <window_info anchor="bottom" id="TODO" order="2" weight="0.32733223" />
+      <window_info active="true" anchor="bottom" id="Logcat" order="1" visible="true" weight="0.41080198" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.32569557" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.32969433" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.3289689" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.22422259" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.22422259" />
       <window_info anchor="bottom" id="Debug" order="8" />
       <window_info anchor="bottom" id="Android Profiler" order="9" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
@@ -585,137 +410,54 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit Pertama via android studio" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/taken/belajarmengaji/BelajarActivity.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakTanwinActivity.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakHijaiyahActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakBacaanActivity.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_hijaiyah.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="68" column="45" selection-start-line="9" selection-start-column="4" selection-end-line="68" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/taken/belajarmengaji/KuisTebakBacaanTanwinActivity.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakBacaanHarokatActivity.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakHarokatActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_harokat.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1037">
           <caret line="61" column="32" selection-start-line="9" selection-start-column="1" selection-end-line="68" selection-end-column="45" />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_tanwin.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakBacaanHijaiyahActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
-        </state>
-      </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_bacaan_harokat.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_bacaan_hijaiyah.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="64" column="35" lean-forward="true" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_bacaan.xml">
       <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakBacaanTanwinActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_bacaan_tanwin.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_kuis.xml">
       <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_harokat.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/TanwinActivity.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -732,12 +474,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tanwin.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HarokatActivity.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -755,12 +497,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -811,49 +553,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/BelajarActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="23" column="63" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_belajar.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="45" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="45" />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_harokat_kasroh.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3764">
           <caret line="43" column="56" selection-start-line="43" selection-start-column="56" selection-end-line="43" selection-end-column="56" />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HarokatKasrohActivity.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -926,68 +643,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/TanwinFathahActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="1071">
           <caret line="72" column="83" selection-start-line="72" selection-start-column="83" selection-end-line="72" selection-end-column="83" />
-          <folding>
-            <element signature="e#1003#1178#0" expanded="true" />
-            <element signature="e#1177#1178#0" expanded="true" />
-            <element signature="e#6104#6439#0" expanded="true" />
-            <element signature="e#6438#6439#0" expanded="true" />
-            <element signature="e#6483#6817#0" expanded="true" />
-            <element signature="e#6816#6817#0" expanded="true" />
-            <element signature="e#6861#7195#0" expanded="true" />
-            <element signature="e#7194#7195#0" expanded="true" />
-            <element signature="e#7239#7574#0" expanded="true" />
-            <element signature="e#7573#7574#0" expanded="true" />
-            <element signature="e#7617#7952#0" expanded="true" />
-            <element signature="e#7951#7952#0" expanded="true" />
-            <element signature="e#7995#8329#0" expanded="true" />
-            <element signature="e#8328#8329#0" expanded="true" />
-            <element signature="e#8372#8708#0" expanded="true" />
-            <element signature="e#8707#8708#0" expanded="true" />
-            <element signature="e#8752#9087#0" expanded="true" />
-            <element signature="e#9086#9087#0" expanded="true" />
-            <element signature="e#9131#9468#0" expanded="true" />
-            <element signature="e#9467#9468#0" expanded="true" />
-            <element signature="e#9512#9846#0" expanded="true" />
-            <element signature="e#9845#9846#0" expanded="true" />
-            <element signature="e#9890#10224#0" expanded="true" />
-            <element signature="e#10223#10224#0" expanded="true" />
-            <element signature="e#10269#10604#0" expanded="true" />
-            <element signature="e#10603#10604#0" expanded="true" />
-            <element signature="e#10648#10985#0" expanded="true" />
-            <element signature="e#10984#10985#0" expanded="true" />
-            <element signature="e#11029#11366#0" expanded="true" />
-            <element signature="e#11365#11366#0" expanded="true" />
-            <element signature="e#11411#11747#0" expanded="true" />
-            <element signature="e#11746#11747#0" expanded="true" />
-            <element signature="e#11791#12126#0" expanded="true" />
-            <element signature="e#12125#12126#0" expanded="true" />
-            <element signature="e#12170#12505#0" expanded="true" />
-            <element signature="e#12504#12505#0" expanded="true" />
-            <element signature="e#12549#12884#0" expanded="true" />
-            <element signature="e#12883#12884#0" expanded="true" />
-            <element signature="e#12929#13265#0" expanded="true" />
-            <element signature="e#13264#13265#0" expanded="true" />
-            <element signature="e#13309#13643#0" expanded="true" />
-            <element signature="e#13642#13643#0" expanded="true" />
-            <element signature="e#13687#14022#0" expanded="true" />
-            <element signature="e#14021#14022#0" expanded="true" />
-            <element signature="e#14066#14401#0" expanded="true" />
-            <element signature="e#14400#14401#0" expanded="true" />
-            <element signature="e#14445#14780#0" expanded="true" />
-            <element signature="e#14779#14780#0" expanded="true" />
-            <element signature="e#14825#15159#0" expanded="true" />
-            <element signature="e#15158#15159#0" expanded="true" />
-            <element signature="e#15203#15539#0" expanded="true" />
-            <element signature="e#15538#15539#0" expanded="true" />
-            <element signature="e#15583#15919#0" expanded="true" />
-            <element signature="e#15918#15919#0" expanded="true" />
-            <element signature="e#15963#16298#0" expanded="true" />
-            <element signature="e#16297#16298#0" expanded="true" />
-            <element signature="e#16342#16676#0" expanded="true" />
-            <element signature="e#16675#16676#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1059,144 +716,237 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tanwin_kasroh.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tanwin_fathah.xml">
       <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3923">
-          <caret line="46" column="55" selection-start-line="46" selection-start-column="55" selection-end-line="46" selection-end-column="55" />
-        </state>
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/TanwinDhomahActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-884">
-          <caret line="23" column="61" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="61" />
-          <folding>
-            <element signature="e#983#1157#0" expanded="true" />
-            <element signature="e#1156#1157#0" expanded="true" />
-            <element signature="e#6263#6598#0" expanded="true" />
-            <element signature="e#6597#6598#0" expanded="true" />
-            <element signature="e#6642#6976#0" expanded="true" />
-            <element signature="e#6975#6976#0" expanded="true" />
-            <element signature="e#7020#7354#0" expanded="true" />
-            <element signature="e#7353#7354#0" expanded="true" />
-            <element signature="e#7398#7733#0" expanded="true" />
-            <element signature="e#7732#7733#0" expanded="true" />
-            <element signature="e#7776#8111#0" expanded="true" />
-            <element signature="e#8110#8111#0" expanded="true" />
-            <element signature="e#8154#8488#0" expanded="true" />
-            <element signature="e#8487#8488#0" expanded="true" />
-            <element signature="e#8531#8867#0" expanded="true" />
-            <element signature="e#8866#8867#0" expanded="true" />
-            <element signature="e#8911#9246#0" expanded="true" />
-            <element signature="e#9245#9246#0" expanded="true" />
-            <element signature="e#9290#9627#0" expanded="true" />
-            <element signature="e#9626#9627#0" expanded="true" />
-            <element signature="e#9671#10005#0" expanded="true" />
-            <element signature="e#10004#10005#0" expanded="true" />
-            <element signature="e#10049#10383#0" expanded="true" />
-            <element signature="e#10382#10383#0" expanded="true" />
-            <element signature="e#10428#10763#0" expanded="true" />
-            <element signature="e#10762#10763#0" expanded="true" />
-            <element signature="e#10807#11144#0" expanded="true" />
-            <element signature="e#11143#11144#0" expanded="true" />
-            <element signature="e#11188#11525#0" expanded="true" />
-            <element signature="e#11524#11525#0" expanded="true" />
-            <element signature="e#11570#11906#0" expanded="true" />
-            <element signature="e#11905#11906#0" expanded="true" />
-            <element signature="e#11951#12286#0" expanded="true" />
-            <element signature="e#12285#12286#0" expanded="true" />
-            <element signature="e#12330#12666#0" expanded="true" />
-            <element signature="e#12665#12666#0" expanded="true" />
-            <element signature="e#12710#13045#0" expanded="true" />
-            <element signature="e#13044#13045#0" expanded="true" />
-            <element signature="e#13090#13426#0" expanded="true" />
-            <element signature="e#13425#13426#0" expanded="true" />
-            <element signature="e#13470#13804#0" expanded="true" />
-            <element signature="e#13803#13804#0" expanded="true" />
-            <element signature="e#13848#14183#0" expanded="true" />
-            <element signature="e#14182#14183#0" expanded="true" />
-            <element signature="e#14227#14562#0" expanded="true" />
-            <element signature="e#14561#14562#0" expanded="true" />
-            <element signature="e#14606#14941#0" expanded="true" />
-            <element signature="e#14940#14941#0" expanded="true" />
-            <element signature="e#14986#15321#0" expanded="true" />
-            <element signature="e#15320#15321#0" expanded="true" />
-            <element signature="e#15365#15701#0" expanded="true" />
-            <element signature="e#15700#15701#0" expanded="true" />
-            <element signature="e#15745#16081#0" expanded="true" />
-            <element signature="e#16080#16081#0" expanded="true" />
-            <element signature="e#16125#16460#0" expanded="true" />
-            <element signature="e#16459#16460#0" expanded="true" />
-            <element signature="e#16504#16838#0" expanded="true" />
-            <element signature="e#16837#16838#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tanwin_dhomah.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+        <state relative-caret-position="162">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_hijaiyah.xml">
-      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="291" column="40" selection-start-line="291" selection-start-column="40" selection-end-line="291" selection-end-column="40" />
+        <state relative-caret-position="163">
+          <caret line="128" column="36" selection-start-line="128" selection-start-column="33" selection-end-line="128" selection-end-column="36" />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HijaiyahActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="24" column="59" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_harokat_fathah.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="286" column="41" selection-start-line="286" selection-start-column="41" selection-end-line="286" selection-end-column="41" />
+        <state relative-caret-position="307">
+          <caret line="377" column="12" lean-forward="true" selection-start-line="377" selection-start-column="12" selection-end-line="377" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HarokatFathahActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-323">
+        <state relative-caret-position="340">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_harokat_dhomah.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/HarokatDhomahActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="382" column="74" selection-start-line="382" selection-start-column="74" selection-end-line="382" selection-end-column="74" />
+        <state relative-caret-position="223">
+          <caret line="380" column="41" selection-start-line="380" selection-start-column="41" selection-end-line="380" selection-end-column="41" />
           <folding>
-            <element signature="e#16258#16591#0" expanded="true" />
-            <element signature="e#16590#16591#0" expanded="true" />
+            <element signature="e#15880#16214#0" expanded="true" />
+            <element signature="e#16213#16214#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="106" selection-start-line="14" selection-start-column="106" selection-end-line="14" selection-end-column="106" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_harokat_dhomah.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_harokat_fathah.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="286" column="41" selection-start-line="286" selection-start-column="41" selection-end-line="286" selection-end-column="41" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tanwin_fathah.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="46" column="55" selection-start-line="46" selection-start-column="55" selection-end-line="46" selection-end-column="55" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tanwin_dhomah.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/TanwinDhomahActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" column="61" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/BelajarActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="63" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_bacaan.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="25" column="53" lean-forward="true" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_kuis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="63" lean-forward="true" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="17" column="117" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="117" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#705#920#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#1028#1243#0" expanded="true" />
+            <element signature="e#1242#1243#0" expanded="true" />
+            <element signature="e#1351#1566#0" expanded="true" />
+            <element signature="e#1565#1566#0" expanded="true" />
+            <element signature="e#1674#1889#0" expanded="true" />
+            <element signature="e#1888#1889#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakBacaanActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="117" selection-start-line="17" selection-start-column="117" selection-end-line="17" selection-end-column="117" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#731#1002#0" expanded="true" />
+            <element signature="e#1001#1002#0" expanded="true" />
+            <element signature="e#1111#1381#0" expanded="true" />
+            <element signature="e#1380#1381#0" expanded="true" />
+            <element signature="e#1491#1762#0" expanded="true" />
+            <element signature="e#1761#1762#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakBacaanHijaiyahActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="117" selection-start-line="13" selection-start-column="117" selection-end-line="13" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakBacaanTanwinActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="117" selection-start-line="13" selection-start-column="117" selection-end-line="13" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakHarokatActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="117" selection-start-line="13" selection-start-column="117" selection-end-line="13" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakBacaanHarokatActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="117" selection-start-line="13" selection-start-column="117" selection-end-line="13" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/KuisTebakHijaiyahActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="60" column="38" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
+          <folding>
+            <element signature="e#1287#1441#0" expanded="true" />
+            <element signature="e#1440#1441#0" expanded="true" />
+            <element signature="e#1477#1632#0" expanded="true" />
+            <element signature="e#1631#1632#0" expanded="true" />
+            <element signature="e#1820#1821#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/Hijaiyah.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/Harokat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/Tanwin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/arwien/belajarmengaji/Bacaan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_kuis_tebak_hijaiyah.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="19" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
   </component>
 </project>

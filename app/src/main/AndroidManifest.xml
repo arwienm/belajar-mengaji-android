@@ -13,7 +13,6 @@
         <activity android:name=".KuisTebakBacaanTanwinActivity" android:screenOrientation="landscape"/>
         <activity android:name=".KuisTebakBacaanHarokatActivity" android:screenOrientation="landscape" />
         <activity android:name=".KuisTebakBacaanHijaiyahActivity" android:screenOrientation="landscape" />
-        <activity android:name="com.arwien.belajarmengaji.TanwinFathahActivity" android:screenOrientation="landscape"/>
         <activity android:name=".KuisTebakBacaanActivity" android:screenOrientation="landscape" />
         <activity android:name=".KuisTebakTanwinActivity" android:screenOrientation="landscape" />
         <activity android:name=".KuisTebakHarokatActivity" android:screenOrientation="landscape" />

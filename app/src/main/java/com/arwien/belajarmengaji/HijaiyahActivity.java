@@ -48,15 +48,17 @@ public class HijaiyahActivity extends AppCompatActivity {
         final MediaPlayer SuaraSa = MediaPlayer.create(this, R.raw.sa);
         final MediaPlayer SuaraJim = MediaPlayer.create(this, R.raw.jim);
         final MediaPlayer SuaraHa = MediaPlayer.create(this, R.raw.ha);
-        final MediaPlayer SuaraKho = MediaPlayer.create(this, R.raw.dal);
+        final MediaPlayer SuaraKho = MediaPlayer.create(this, R.raw.kho);
+        final MediaPlayer SuaraDal = MediaPlayer.create(this, R.raw.dal);
         final MediaPlayer SuaraDzal = MediaPlayer.create(this, R.raw.dzal);
         final MediaPlayer SuaraRo = MediaPlayer.create(this, R.raw.ro);
-        final MediaPlayer SuaraDza = MediaPlayer.create(this, R.raw.dza);
+        final MediaPlayer SuaraJa = MediaPlayer.create(this, R.raw.dza);
         final MediaPlayer SuaraSin = MediaPlayer.create(this, R.raw.sin);
         final MediaPlayer SuaraSyin = MediaPlayer.create(this, R.raw.syin);
         final MediaPlayer SuaraShad = MediaPlayer.create(this, R.raw.shad);
         final MediaPlayer SuaraDod = MediaPlayer.create(this, R.raw.dod);
-        final MediaPlayer SuaraDho = MediaPlayer.create(this, R.raw.dho);
+        final MediaPlayer SuaraTo = MediaPlayer.create(this, R.raw.to);
+        final MediaPlayer SuaraDo = MediaPlayer.create(this, R.raw.dho);
         final MediaPlayer SuaraAin = MediaPlayer.create(this, R.raw.ain);
         final MediaPlayer SuaraGin = MediaPlayer.create(this, R.raw.gin);
         final MediaPlayer SuaraFa = MediaPlayer.create(this, R.raw.fa);
@@ -181,7 +183,7 @@ public class HijaiyahActivity extends AppCompatActivity {
                 // TODO Auto-generated method stub
                 TampilGambar.setImageResource(R.drawable.pop_dal);
                 TampilGambar.startAnimation(animScale);
-                SuaraDzal.start();
+                SuaraDal.start();
             }
         });
 
@@ -212,7 +214,7 @@ public class HijaiyahActivity extends AppCompatActivity {
                 // TODO Auto-generated method stub
                 TampilGambar.setImageResource(R.drawable.pop_zai);
                 TampilGambar.startAnimation(animScale);
-                SuaraDza.start();
+                SuaraJa.start();
             }
         });
 
@@ -264,7 +266,7 @@ public class HijaiyahActivity extends AppCompatActivity {
                 // TODO Auto-generated method stub
                 TampilGambar.setImageResource(R.drawable.pop_tha);
                 TampilGambar.startAnimation(animScale);
-                SuaraDho.start();
+                SuaraTo.start();
             }
         });
         ButtonSuara17.setOnClickListener(new View.OnClickListener() {
@@ -274,7 +276,7 @@ public class HijaiyahActivity extends AppCompatActivity {
                 // TODO Auto-generated method stub
                 TampilGambar.setImageResource(R.drawable.pop_zha);
                 TampilGambar.startAnimation(animScale);
-                SuaraAin.start();
+                SuaraDo.start();
             }
         });
         ButtonSuara18.setOnClickListener(new View.OnClickListener() {
@@ -356,7 +358,6 @@ public class HijaiyahActivity extends AppCompatActivity {
                 // TODO Auto-generated method stub
                 TampilGambar.setImageResource(R.drawable.pop_nun);
                 TampilGambar.startAnimation(animScale);
-
                 SuaraNun.start();
             }
         });

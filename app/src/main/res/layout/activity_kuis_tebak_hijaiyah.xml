@@ -24,6 +24,7 @@
         android:layout_margin="10dp"
         android:background="@drawable/aa_alif"/>
     <ImageButton
+        android:id="@+id/jawaban2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
@@ -33,6 +34,7 @@
         android:layout_margin="10dp"
         android:background="@drawable/aa_ba"/>
     <ImageButton
+        android:id="@+id/jawaban3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
@@ -43,6 +45,7 @@
         android:background="@drawable/aa_ta"/>
 
     <TextView
+        android:id="@+id/skor"
         android:textColor="@color/colorSkor"
         android:textStyle="bold"
         android:textSize="30dp"

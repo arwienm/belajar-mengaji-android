@@ -18,14 +18,17 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent">
             <ImageButton
+                android:id="@+id/kuis_bacaan_hijaiyah"
                 android:layout_width="170dp"
                 android:layout_height="170dp"
                 android:background="@drawable/menu_tebak_hijaiyah"/>
             <ImageButton
+                android:id="@+id/kuis_bacaan_harokat"
                 android:layout_width="170dp"
                 android:layout_height="170dp"
                 android:background="@drawable/menu_tebak_harokat"/>
             <ImageButton
+                android:id="@+id/kuis_bacaan_tanwin"
                 android:layout_width="170dp"
                 android:layout_height="170dp"
                 android:background="@drawable/menu_tebak_tanwin"/>
