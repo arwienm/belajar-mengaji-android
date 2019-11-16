@@ -21,6 +21,8 @@ public class MainActivity extends AppCompatActivity {
 
         //untuk menghilangkan menu bar di Layar depan
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
+        mp = MediaPlayer.create(getBaseContext(),R.raw.backsound);
+        mp.start();
 
         final MediaPlayer suaraButton = MediaPlayer.create(this,R.raw.button);
 
@@ -28,10 +30,10 @@ public class MainActivity extends AppCompatActivity {
         pindah.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //suaraButton.start();
+                suaraButton.start();
                 Intent intent = new Intent(MainActivity.this,BelajarActivity.class);
                 startActivity(intent);
-                //mp.stop();
+                mp.stop();
             }
         });
 
@@ -39,10 +41,10 @@ public class MainActivity extends AppCompatActivity {
         pindah.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //suaraButton.start();
+                suaraButton.start();
                 Intent intent = new Intent(MainActivity.this,KuisActivity.class);
                 startActivity(intent);
-                //mp.stop();
+                mp.stop();
             }
         });
     }
