@@ -35,7 +35,7 @@
         </LinearLayout>
     </HorizontalScrollView>
 
-    <ImageButton
+<!--    <ImageButton
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:background="@drawable/about"
@@ -47,6 +47,6 @@
         android:layout_height="70dp"
         android:background="@drawable/exit"
         android:layout_alignParentRight="true"
-        android:layout_alignParentBottom="true"/>
+        android:layout_alignParentBottom="true"/>-->
 
 </RelativeLayout>

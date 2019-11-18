@@ -10,7 +10,9 @@
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
 
     <HorizontalScrollView
         android:layout_width="wrap_content"
@@ -44,7 +46,7 @@
 
     </HorizontalScrollView>
 
-    <ImageButton
+<!--    <ImageButton
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:background="@drawable/about"
@@ -58,6 +60,6 @@
         android:background="@drawable/exit"
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
-        android:id="@+id/buttonExit" />
+        android:id="@+id/buttonExit" />-->
     </RelativeLayout>
 </RelativeLayout>

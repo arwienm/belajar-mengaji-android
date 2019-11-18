@@ -288,7 +288,7 @@
         android:src="@drawable/pop_domahtain_un"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
-    <ImageButton
+<!--    <ImageButton
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_alignParentTop="true"
@@ -302,6 +302,6 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:background="@drawable/back"/>
+        android:background="@drawable/back"/>-->
 
 </RelativeLayout>
